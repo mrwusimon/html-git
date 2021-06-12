@@ -1,0 +1,20 @@
+body {
+  background: yellowgreen;
+}
+.h2:hover {
+  color: red;
+}
+#heading-us {
+  color: blue;
+}
+/*li:first-child {
+  color: steelblue;
+} */
+
+#bing-search {
+  color: red;
+}
+
+ul > li {
+  color: red;
+}
